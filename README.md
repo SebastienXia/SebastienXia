@@ -12,10 +12,9 @@
 - 📫 How to reach me: sebastienxia@gmail.com
 - ⚡ Fun fact: ...
 - <hr>
-- <p>
+<p align="left">
 <a href="https://instagram.com/seb_mistachou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seb_mistachou" height="30" width="40" /></a>
-  
 <a href="https://www.youtube.com/c/mistachou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mistachou" height="30" width="40" /></a>
-  
 <a href="https://discord.gg/https://discord.gg/peBxCy3Tak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/peBxCy3Tak" height="30" width="40" /></a>
 </p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastienxia&show_icons=true&locale=en&layout=compact" alt="sebastienxia" /></p>
