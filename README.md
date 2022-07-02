@@ -23,4 +23,4 @@
 <hr/>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sebastienxia&show_icons=true&locale=en" alt="sebastienxia" /></p>
 <hr/>
-<p align="center" ><img src="https://i.gifer.com/Sc6.gif" alt="sebastienxia"/></p>
+<p align="center"><img src="https://f.hellowork.com/blogdumoderateur/2015/09/logo-google-gif.gif" alt="Google"/></p>
