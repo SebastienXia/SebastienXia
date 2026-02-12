@@ -1,1 +1,1 @@
-<img src="raise-the-roof-droid.gif">
+<img src="observing-droid.gif">
