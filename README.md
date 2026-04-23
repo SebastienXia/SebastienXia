@@ -1,1 +1,3 @@
-<img src="observing-droid.gif">
+<img src="assets/tux-linux-penguin.gif">
+
+---
