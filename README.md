@@ -29,7 +29,7 @@
 ---
 
 ## Project
-> [BLOG Project xia-sec.blog](https://sebastienxia.github.io/xia-sec.blog/)
+> [BLOG Project 0xia.log](https://sebastienxia.github.io/0xia.log/)
 
 ## Find me on
 <div align="center">
