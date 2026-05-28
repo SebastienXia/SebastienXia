@@ -18,14 +18,11 @@
 ---
 
 ## Knowledge & Credentials
-
-<!-- [![HarvardX: CS50's Introduction to Cybersecurity](https://img.shields.io/badge/HarvardX-Certificat_CS50_Introduction_to_Cybersecurity-black?style=for-the-badge&logo=harvard&logoColor=white&labelColor=A51C30)](TON_LIEN_DE_VERIFICATION)
-[![Cisco: Networking Basics](https://img.shields.io/badge/Cisco_Networking_Academy-Certificat_Networking_Basics-black?style=for-the-badge&logo=cisco&logoColor=white&labelColor=005A87)](TON_LIEN_DE_VERIFICATION) -->
+  [![Cisco - Networking Basics](https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/4803b133-a753-46fc-8135-52168fc4bbce/public_url)
 
 * 🔭 **Currently working on:**
   * 🎓 **Specialization** | HarvardX : [CS50’s Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/)
-  * 🌐 **Specialization** | Cisco : [Networking Basics](https://www.netacad.com/fr/courses/networking-basics?courseLang=en-US)
-
+ 
 ---
 
 ## Project
