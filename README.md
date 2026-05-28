@@ -18,7 +18,8 @@
 ---
 
 ## Knowledge & Credentials
-  [![Cisco - Networking Basics](https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/4803b133-a753-46fc-8135-52168fc4bbce/public_url)
+
+<a href="https://www.credly.com/badges/4803b133-a753-46fc-8135-52168fc4bbce/public_url" target="_blank" rel="noopener noreferrer"><img src="assets/networking-basics.png" height=150px alt="badge_cisco_network_basics"></a>
 
 * 🔭 **Currently working on:**
   * 🎓 **Specialization** | HarvardX : [CS50’s Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/)
