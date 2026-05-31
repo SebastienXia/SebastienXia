@@ -19,11 +19,13 @@
 
 ## Knowledge & Credentials
 
+- Certificate : **[Introduction to Cybersecurity](https://www.credly.com/badges/9e51f2a7-8f48-497d-80ab-a5c1cd07dcfb/public_url)** Issued by [Cisco](https://www.netacad.com/)
+- Certificate : **[Networking Basics](https://www.credly.com/badges/4803b133-a753-46fc-8135-52168fc4bbce/public_url)** Issued by [Cisco](https://www.netacad.com/)
+
 🔗 *[Sebastien Xia on Credly](https://www.credly.com/users/sebastien-xia) — Official platform for verified digital badges and professional certifications.*
 
 * 🔭 **Currently working on:**
   * 🎓 **Specialization** | HarvardX : [CS50’s Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/)
-  * 🎓 **Specialization** | Cisco : [Introduction to Cybersecurity](https://www.netacad.com/fr/courses/introduction-to-cybersecurity?courseLang=fr-FR)
  
 ---
 
