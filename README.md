@@ -33,7 +33,7 @@
 * 🔭 **Currently working on:**
   * 🎓 **Specialization** | HarvardX : [CS50’s Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/)
   * 🛡️​ **Career Path** | Cisco Networking Academy : [Junior Cybersecurity Analyst](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US)
-     * To go and get the CCST Cybersecurity certification <img src="https://www.cisco.com/content/dam/cisco-cdc/site/images/photography/learn/160/ccst-cybersecurity-logo-160x160.png" alt="CCST Cybersecurity">
+     * To go and get the CCST Cybersecurity certification <img src="https://www.cisco.com/content/dam/cisco-cdc/site/images/photography/learn/160/ccst-cybersecurity-logo-160x160.png" height="150" alt="CCST Cybersecurity">
  
 ---
 
