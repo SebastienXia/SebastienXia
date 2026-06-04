@@ -45,5 +45,6 @@
 <div align="center">
 
 [![Root-Me](https://img.shields.io/badge/Root--Me-21313C?style=for-the-badge&logo=root-me&logoColor=white)](https://www.root-me.org/XIA-1093551)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/](https://www.youtube.com/@PaquetSuspect))
 
 </div>
