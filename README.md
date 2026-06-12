@@ -19,12 +19,12 @@
 ---
 
 ## Knowledge & Credentials
-<!-- <div align = "center">
+<div align = "center">
 
-<img src="https://cs50.harvard.edu/certificates/255e186b-53ed-4108-b01b-5aa8915c03c5.png" height="250" alt="CS50 Certificate Introduction to Cybersecurity">
+<img src="assets/CS50 Cybersecurity.png" height="250" alt="CS50 Certificate Introduction to Cybersecurity">
   
 </div>
-<br> -->
+<br>
 
 - Certificate : **[Introduction to Cybersecurity](https://www.credly.com/badges/9e51f2a7-8f48-497d-80ab-a5c1cd07dcfb/public_url)** Issued by [Cisco](https://www.netacad.com/)
 - Certificate : **[Networking Basics](https://www.credly.com/badges/4803b133-a753-46fc-8135-52168fc4bbce/public_url)** Issued by [Cisco](https://www.netacad.com/)
