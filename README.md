@@ -21,15 +21,23 @@
 ## Knowledge & Credentials
 <div align = "center">
 
-<img src="assets/CS50 Cybersecurity.png" height="250" alt="CS50 Certificate Introduction to Cybersecurity">
+<img src="assets/CS50 Cybersecurity.png" height="175" alt="CS50 Certificate Introduction to Cybersecurity">
   
+<p align="center">CS50's Introduction to Cybersecurity — Harvard University (2026)</p>
+__
 </div>
+
 <br>
 
 - Certificate : **[Introduction to Cybersecurity](https://www.credly.com/badges/9e51f2a7-8f48-497d-80ab-a5c1cd07dcfb/public_url)** Issued by [Cisco](https://www.netacad.com/)
 - Certificate : **[Networking Basics](https://www.credly.com/badges/4803b133-a753-46fc-8135-52168fc4bbce/public_url)** Issued by [Cisco](https://www.netacad.com/)
 
+<div align = "center">
+
 🔗 *[Sebastien Xia on Credly](https://www.credly.com/users/sebastien-xia) — Official platform for verified digital badges and professional certifications.*
+<br> __
+  
+</div>
 
 * 🔭 **Currently working on:**
   * 🎓 **Specialization** | HarvardX : [CS50’s Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/)
