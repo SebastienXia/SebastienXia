@@ -19,16 +19,8 @@
 ---
 
 ## Knowledge & Credentials
-<div align = "center">
 
-<img src="assets/CS50 Cybersecurity.png" height="175" alt="CS50 Certificate Introduction to Cybersecurity">
-  
-<p align="center">CS50's Introduction to Cybersecurity — Harvard University (2026)</p>
-__
-</div>
-
-<br>
-
+- Obtained **CompTIA Security+** certification
 - Certificate : **[Introduction to Cybersecurity](https://www.credly.com/badges/9e51f2a7-8f48-497d-80ab-a5c1cd07dcfb/public_url)** Issued by [Cisco](https://www.netacad.com/)
 - Certificate : **[Networking Basics](https://www.credly.com/badges/4803b133-a753-46fc-8135-52168fc4bbce/public_url)** Issued by [Cisco](https://www.netacad.com/)
 
@@ -41,8 +33,6 @@ __
 
 * 🔭 **Currently working on:**
   * 🎓 **Specialization** | HarvardX : [CS50’s Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/)
-  * 🛡️​ **Career Path** | Cisco Networking Academy : [Junior Cybersecurity Analyst](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US)
-     * To go and get the CCST Cybersecurity certification <img src="https://www.cisco.com/content/dam/cisco-cdc/site/images/photography/learn/160/ccst-cybersecurity-logo-160x160.png" height="150" alt="CCST Cybersecurity">
  
 ---
 
