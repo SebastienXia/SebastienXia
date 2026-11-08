@@ -20,7 +20,7 @@
 
 ## Knowledge & Credentials
 
-- Obtained **CompTIA Security+** certification
+- Obtained **[CompTIA Security+ certification](https://www.credly.com/badges/63beb412-b6c5-4dbb-8579-cd1ca068a796/public_url)**
 - Certificate : **[Introduction to Cybersecurity](https://www.credly.com/badges/9e51f2a7-8f48-497d-80ab-a5c1cd07dcfb/public_url)** Issued by [Cisco](https://www.netacad.com/)
 - Certificate : **[Networking Basics](https://www.credly.com/badges/4803b133-a753-46fc-8135-52168fc4bbce/public_url)** Issued by [Cisco](https://www.netacad.com/)
 
@@ -37,12 +37,14 @@
 ---
 
 ## Project
-> [BLOG Project 0xia.log](https://sebastienxia.github.io/0xia.log/)
+* [BLOG Project 0xia.log](https://sebastienxia.github.io/0xia.log/)
+* [sigma-detection-labs](https://github.com/SebastienXia/sigma-detection-labs)
 
 ## Find me on
 <div align="center">
 
 [![Root-Me](https://img.shields.io/badge/Root--Me-21313C?style=for-the-badge&logo=root-me&logoColor=white)](https://www.root-me.org/XIA-1093551)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PaquetSuspect)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/01a1130e-90af-7246-aa34-52469085c57b?utm_medium=copy_url)
 
 </div>
