@@ -37,7 +37,7 @@
 ---
 
 ## Project
-* [BLOG Project 0xia.log](https://sebastienxia.github.io/0xia.log/)
+* [BLOG Project 0xia.log](https://github.com/SebastienXia/Oxia.Log)
 * [sigma-detection-labs](https://github.com/SebastienXia/sigma-detection-labs)
 
 ## Find me on
