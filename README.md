@@ -23,6 +23,7 @@
 - Obtained **[CompTIA Security+ certification](https://www.credly.com/badges/63beb412-b6c5-4dbb-8579-cd1ca068a796/public_url)**
 - Certificate : **[Introduction to Cybersecurity](https://www.credly.com/badges/9e51f2a7-8f48-497d-80ab-a5c1cd07dcfb/public_url)** Issued by [Cisco](https://www.netacad.com/)
 - Certificate : **[Networking Basics](https://www.credly.com/badges/4803b133-a753-46fc-8135-52168fc4bbce/public_url)** Issued by [Cisco](https://www.netacad.com/)
+- Specialization : HarvardX - CS50’s Introduction to Cybersecurity
 
 <div align = "center">
 
@@ -30,9 +31,6 @@
 <br> __
   
 </div>
-
-* 🔭 **Currently working on:**
-  * 🎓 **Specialization** | HarvardX : [CS50’s Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/)
  
 ---
 
